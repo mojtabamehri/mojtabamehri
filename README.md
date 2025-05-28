@@ -1,5 +1,5 @@
 Hi there! 👋
-I’m a data analyst excited to learn and grow in the world of data. This is my personal space to explore and practice skills in:
+I’m a data analyst, excited to learn and grow in the world of data. This is my personal space to explore and practice skills in:
 
 - __Python__ — for data analysis and automation
 
