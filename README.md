@@ -3,9 +3,7 @@ Hi there! 👋
 I’m a data analyst excited to learn and grow in the world of data. This is my personal space to explore and practice skills in:
 
 Python — for data analysis and automation
-
 SQL — to query and manage databases
-
 Power BI — for creating insightful data visualizations
 
 My Journey
