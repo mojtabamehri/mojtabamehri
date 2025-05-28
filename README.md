@@ -2,9 +2,13 @@ Hi there! 👋
 
 I’m a data analyst excited to learn and grow in the world of data. This is my personal space to explore and practice skills in:
 
+
 Python — for data analysis and automation
+
 SQL — to query and manage databases
+
 Power BI — for creating insightful data visualizations
+
 
 My Journey
 I’m eager to build projects, share what I learn, and connect with others in the data community.
